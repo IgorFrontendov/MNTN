@@ -688,6 +688,7 @@ footer .menu li {
   .main-container .scroll .text {
     margin-right: 20px;
     padding: 0;
+    width: 100px;
   }
   
   .slider-list {
