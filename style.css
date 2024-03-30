@@ -465,6 +465,10 @@ footer .menu li {
   * {
     box-sizing: border-box;
   }
+
+  br {
+    display:none;
+  }
   
   a {
     text-decoration: none;
@@ -750,6 +754,7 @@ footer .menu li {
     line-height: 32px;
     padding-top: 27px;
     color: #fff;
+    width: 400px;
   }
   
   .read-more {
@@ -793,7 +798,7 @@ footer .menu li {
   }
   
   .hiking-gear {
-    padding-top: 200px;
+    padding: 200px 50px 0 50px;
     background-color: #0B1D26;
     width: 100%;
   }
@@ -818,9 +823,8 @@ footer .menu li {
   }
   
   .map-and-timing {
-    padding-top: 200px;
+    padding:200px 50px 200px 50px;
     background-color: #0B1D26;
-    padding-bottom: 200px;
   }
   
   .map-and-timing .content {
