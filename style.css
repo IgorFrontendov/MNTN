@@ -314,6 +314,7 @@ body {
   color: var(--special-color);
   margin-right: 16px;
   padding: 0;
+  width:100px;
 }
 
 .container-level-of-hiker .left-content {
